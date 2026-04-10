@@ -24,6 +24,4 @@ respond — connecting everything from the previous sections.
   Asymmetric (public/private key pair, used in HTTPS/TLS). Hashing 
   for integrity checks (SHA-256, MD5 — MD5 now broken).
 
-**Key takeaway:** Pre-Security complete. The foundation is in place — 
-networking, web, OS, software, and attack theory. Next step: Jr Penetration 
-Tester path where these concepts are applied hands-on against real targets.
+**Key takeaway:** Pre-Security complete. 
