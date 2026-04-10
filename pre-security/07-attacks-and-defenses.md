@@ -23,5 +23,3 @@ respond — connecting everything from the previous sections.
 - **Cryptography basics** — Symmetric (same key both ways, fast), 
   Asymmetric (public/private key pair, used in HTTPS/TLS). Hashing 
   for integrity checks (SHA-256, MD5 — MD5 now broken).
-
-**Key takeaway:** Pre-Security complete. 
